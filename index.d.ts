@@ -30,8 +30,8 @@ export interface QRScannerProps {
 
   onScanResult?(event: BarCodeReadEvent): void;
   scanInterval?: number;
-  torchOn: boolean,
-  userFront: boolean, 
+  torchOn?: boolean,
+  userFront?: boolean, 
 }
 
 export default QRScannerView
