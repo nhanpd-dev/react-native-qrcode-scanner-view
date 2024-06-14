@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhanpdbap/react-native-qrcode-scanner-view.git"
+    "url": "git+https://github.com/nhanpd-dev/react-native-qrcode-scanner-view.git"
   },
   "dependencies": {
     "prop-types": "^15.7.2"
@@ -31,7 +31,7 @@
   "author": "Marno",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nhanpdbap/react-native-qrcode-scanner-view/issues"
+    "url": "https://github.com/nhanpd-dev/react-native-qrcode-scanner-view/issues"
   },
-  "homepage": "https://github.com/nhanpdbap/react-native-qrcode-scanner-view#readme"
+  "homepage": "https://github.com/nhanpd-dev/react-native-qrcode-scanner-view#readme"
 }
